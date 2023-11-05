@@ -348,5 +348,85 @@ export const questions = [
         id: "P5V2S8FG",
         category: "spicy",
         question: "Hattest du schon einmal ein romantisches Verhältnis mit einem Vorgesetzten oder einer Vorgesetzten?"
+    },
+    {
+        id: "L6T8N3HB",
+        category: "deep",
+        question: "Wenn du ein Jahr lang etwas Gesellschaftlich Relevantes und Soziales machen müsstest, was wäre das und warum?"
+    },
+    {
+        id: "S9P1H4YC",
+        category: "deep",
+        question: "Wenn du drei Punkte in den Koalitionsvertrag der Regierung einbringen könntest, welche wären das?"
+    },
+    {
+        id: "C5X7J2FM",
+        category: "deep",
+        question: "Welches Gesetz würdest du umformulieren oder neuerlassen wollen?"
+    },
+    {
+        id: "M8D6V1WP",
+        category: "deep",
+        question: "Wenn du etwas an unserem politischen System anpassen dürftest, was wäre das?"
+    },
+    {
+        id: "W5H8K1XT",
+        category: "deep",
+        question: "Welche Frage wolltest du deinen Großeltern schon immer mal stellen und hast dich bis jetzt noch nicht getraut?"
+    },
+    {
+        id: "E3M6C4LP",
+        category: "deep",
+        question: "Welche Frage wolltest du deinen Eltern schon immer mal stellen und hast dich bis jetzt noch nicht getraut?"
+    },
+    {
+        id: "X7J1Q4VL",
+        category: "fun",
+        question: "Wenn du für den Rest deines Lebens nur noch ein Gericht essen dürftest, welches wäre das?"
+    },
+    {
+        id: "Z4K6M9WT",
+        category: "fun",
+        question: "Wenn du für eine längere Zeit alleine verreisen könntest und Geld spielt keine Rolle, wohin würdest du verreisen?"
+    },
+    {
+        id: "V2W7S1GF",
+        category: "fun",
+        question: "Wenn du müsstest, würdest du lieber mit einem überproportional großen (3x so groß) oder kleinen (1/4 so groß) Körperteil leben? Wenn ja, welches?"
+    },
+    {
+        id: "N9B1X7RS",
+        category: "fun",
+        question: "Du sitzt vor einem 1000-Teile-Puzzle. Wen in der Runde würdest du zur Unterstützung wählen und wen würdest du auf keinen Fall um Unterstützung bitten?"
+    },
+    {
+        id: "U2G9F5MP",
+        category: "spicy",
+        question: "Ist es eine red flag, wenn eine Person regelmäßig alleine Horrorfilme schaut?"
+    },
+    {
+        id: "R3F9B7XK",
+        category: "spicy",
+        question: "In einer Welt, in der die Bevölkerung immer schneller wächst, würdest du die Ein-Kind-Politik einführen?"
+    },
+    {
+        id: "G1Q4L2ZN",
+        category: "spicy",
+        question: "Du erfährst erst nach Jahren, dass die politische Gesinnung eines sehr engen Freundes von deiner extrem abweicht. Welche Auswirkung hat das auf eure Freundschaft und deine Beziehung zu der Person?"
+    },
+    {
+        id: "T7Y2S6VJ",
+        category: "spicy",
+        question: "Dein Partner, deine Partnerin konfrontiert dich immer häufiger mit offensichtlichen Verschwörungstheorien. Wie gehst du damit um und welchen Einfluss hat das auf eure Beziehung?"
+    },
+    {
+        id: "J2P4D8VY",
+        category: "spicy",
+        question: "Wenn du einen Raub organisieren müsstest, was würdest du rauben und wie würdest du es anstellen?"
+    },
+    {
+        id: "U7G5F3NW",
+        category: "spicy",
+        question: "Wärst du gerne berühmt? Wenn ja, in welcher Form und wofür?"
     }
 ];
